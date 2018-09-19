@@ -1,11 +1,10 @@
 # Practices-C++
-development of university practices
-
+Development of university practices
 
 For installation download these dependencies if you develop in a nilux environment
 
-sudo apt-get install g++ 
+1: sudo apt-get install g++ 
 
-sudo apt-get install codeblocks
+2: sudo apt-get install codeblocks
 
-sudo apt-get install build-essential
+3: sudo apt-get install build-essential
