@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1537673131 source:/home/jesus/practicasC++/practica5/main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
