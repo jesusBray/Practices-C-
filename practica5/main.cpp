@@ -156,8 +156,7 @@ void menu(){
     }while(exit);
 
 }
-int main()
+main()
 {
     menu();
-    return 0;
 }
