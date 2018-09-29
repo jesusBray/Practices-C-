@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int main() {
+main() {
 
     double a,b;
 
@@ -17,5 +17,7 @@ int main() {
     cout <<"La multiplicacion es: "<<a*b<<endl;
     cout <<"La divicion es: "<<a/b<<endl;
 
-    return 0;
+
+
+
 }
