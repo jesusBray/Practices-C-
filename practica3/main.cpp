@@ -41,11 +41,10 @@ void totalPasivo(int activo){
 
 }
 
-int main()
+main()
 {
     int datoEntrante;
     cout << "Digite un monto, $ " << endl;
     cin >>datoEntrante;
     totalPasivo(datoEntrante);
-    return 0;
 }
