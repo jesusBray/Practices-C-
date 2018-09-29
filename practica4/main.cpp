@@ -60,7 +60,7 @@ int metodoProfecional(int categoria,double nota){
     }
 }
 
-int main()
+main()
 {
     int categoria;
     double nota;
@@ -68,6 +68,5 @@ int main()
     cin >>categoria;
     cout <<"Digite su nota"<<endl;
     cin >>nota;
-    cout << "\nTotal a pagar: $ "<<unMetodo(categoria,nota) << endl;
-    return 0;
+    cout << "\nTotal a pagar: $ "<<unMetodo(categoria,nota) << endl
 }
