@@ -56,7 +56,7 @@ string operacion1(double x,double y) {
     }
 };
 
-int main()
+main()
 {
     int a,b;
     cout << "Digite un numero para x" << endl;
@@ -64,5 +64,4 @@ int main()
     cout << "Digite  numero para y" << endl;
     cin >> b;
     cout << "El resultado es: \n"<<operacion1(a,b) << endl;
-    return 0;
 }
